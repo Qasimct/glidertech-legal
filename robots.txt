@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://qasimkhan.github.io/glidertech-legal/sitemap.xml
