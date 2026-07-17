@@ -1,5 +1,7 @@
-User-agent: *
+# Gliders Tech — robots.txt
+# https://qasimct.github.io/glidertech-legal/
 
+User-agent: *
 Allow: /
 
-Sitemap: https://qasimkhan.github.io/glidertech-legal/sitemap.xml
+Sitemap: https://qasimct.github.io/glidertech-legal/sitemap.xml

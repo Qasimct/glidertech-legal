@@ -1,6 +1,6 @@
-# Glider Tech Legal Website
+# Gliders Tech Legal Website
 
-Official legal website for applications developed by **Glider Tech**.
+Official legal website for applications developed by **Gliders Tech**.
 
 ## Pages
 
