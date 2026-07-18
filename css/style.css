@@ -1671,6 +1671,37 @@ font-size:1.2rem;
 
 }
 
+/* ── Layout Section Reset ──
+   Prevents legacy section{} type-selector styles from bleeding
+   into new layout sections on root pages.
+   Evidence: section{border-radius:16px; box-shadow:...; border:1px solid;
+   margin-bottom:28px} and section:hover{transform:translateY(-3px)}
+   are defined above and affect ALL <section> elements.
+   ================================================= */
+
+.hero,
+.page-hero,
+.page-section,
+.page-section-alt,
+.section-compact {
+
+  border: none;
+  box-shadow: none;
+  border-radius: 0;
+  margin-bottom: 0;
+
+}
+
+.hero:hover,
+.page-hero:hover,
+.page-section:hover,
+.page-section-alt:hover,
+.section-compact:hover {
+
+  transform: none;
+
+}
+
 /* ── Utility: Screen-Reader Only ── */
 
 .sr-only {
