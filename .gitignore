@@ -1,0 +1,73 @@
+# ============================================
+# Gliders Tech — .gitignore
+# GitHub Pages static site
+# ============================================
+
+# ── IDE: JetBrains (IntelliJ, WebStorm, etc.)
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# ── IDE: Visual Studio Code
+.vscode/
+*.code-workspace
+
+# ── IDE: Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# ── OS: macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# ── OS: Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ── OS: Linux
+*~
+
+# ── Temporary and backup files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.orig
+
+# ── Logs
+*.log
+logs/
+
+# ── Node.js (if accidentally initialized)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# ── Python (if accidentally initialized)
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# ── Environment / secrets
+.env
+.env.local
+.env.*.local
+
+# ── Build artifacts (not used but safe to include)
+dist/
+build/
+out/
