@@ -197,4 +197,72 @@
         <priority>0.6</priority>
     </url>
 
+    <!-- ==================== SCHOOLTIME PRO ==================== -->
+
+    <!-- SchoolTime Pro Privacy Policy -->
+    <url>
+        <loc>https://qasimct.github.io/glidertech-legal/schooltime/index.html</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- SchoolTime Pro Privacy Policy (named URL) -->
+    <url>
+        <loc>https://qasimct.github.io/glidertech-legal/schooltime/privacy.html</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- SchoolTime Pro Terms and Conditions -->
+    <url>
+        <loc>https://qasimct.github.io/glidertech-legal/schooltime/terms.html</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- SchoolTime Pro Support -->
+    <url>
+        <loc>https://qasimct.github.io/glidertech-legal/schooltime/support.html</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- ==================== SCHOOL BOOK REGISTRY ==================== -->
+
+    <!-- School Book Registry Privacy Policy -->
+    <url>
+        <loc>https://qasimct.github.io/glidertech-legal/school/index.html</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- School Book Registry Privacy Policy (named URL) -->
+    <url>
+        <loc>https://qasimct.github.io/glidertech-legal/school/privacy.html</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- School Book Registry Terms and Conditions -->
+    <url>
+        <loc>https://qasimct.github.io/glidertech-legal/school/terms.html</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- School Book Registry Support -->
+    <url>
+        <loc>https://qasimct.github.io/glidertech-legal/school/support.html</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
 </urlset>
